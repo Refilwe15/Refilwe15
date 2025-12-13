@@ -2,7 +2,7 @@
 
 💻 **Computer Science student at Tshwane University of Technology  
 🚀 Trainee at mLab (CodeTribe)  
-🛠 Skills: Java, HTML, CSS, JavaScript, Python,PL/SQL, Kotlin
+🛠 Skills: Java, HTML, CSS, JavaScript,React , React Native , Node JS , Python,PL/SQL, Kotlin
 📍 Location: Polokwane, Limpopo  
 📚 Currently learning **full-stack development** and building impactful projects.  
 
