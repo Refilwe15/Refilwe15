@@ -1,6 +1,6 @@
 # Hi there, I'm Refilwe Mokoena 👋
 
-💻 **Computer Science student at Tshwane University of Technology  
+💻 **Computer Science graduate at Tshwane University of Technology  
 🚀 Trainee at mLab (CodeTribe)  
 🛠 Skills: Java, HTML, CSS, JavaScript,React , React Native , Node JS , Python,PL/SQL, Kotlin
 📍 Location: Polokwane, Limpopo  
