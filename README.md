@@ -10,6 +10,6 @@
 
 ## 🔗 Connect with me:
 - [LinkedIn](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)  
-- [Portfolio]([https://YOUR-PORTFOLIO-LINK](https://refilwe15.github.io/my-portfolio/))  
+- [Portfolio]([https://YOUR-PORTFOLIO-LINK](https://refilwe15.github.io/my-portfolio/](https://my-portfolio-2-swart.vercel.app/))  
 
 ---
